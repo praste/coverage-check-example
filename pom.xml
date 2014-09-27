@@ -3,7 +3,7 @@
 
   <groupId>com.choudhury</groupId>
   <artifactId>coverage-check-example</artifactId>
-  <version>1.1.1</version>
+  <version>1.1-SNAPSHOT</version>
 
   <dependencies>
 
